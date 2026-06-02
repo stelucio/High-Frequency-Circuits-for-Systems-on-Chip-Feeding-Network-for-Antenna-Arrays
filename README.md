@@ -1,4 +1,4 @@
-# High Frequency Circuits for Systems on Chip:Feeding Network for Antenna Arrays
+# High Frequency Circuits for Systems on Chip: Feeding Network for Antenna Arrays
   - ✅ Define the equivalent circuit model
   - ✅ Model each branch as a microstrip transmission line with characteristic impedance Z0.
   - ✅ Insert power dividers and couplers (e.g., Wilkinson) to generate the array paths.
